@@ -34,14 +34,19 @@ class SiteController extends Controller
         ];
     }
 
+    /**
+     * @inheritdoc
+     */
+    public function dispatches()
+    {
+        return [
+            'error',
+        ];
+    }
+
     public function actionIndex()
     {
         return $this->display();
-    }
-
-    public function actionError()
-    {
-        return $this->runDispatch();
     }
 
 }

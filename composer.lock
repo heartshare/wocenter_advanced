@@ -1629,16 +1629,16 @@
         },
         {
             "name": "kartik-v/yii2-widget-select2",
-            "version": "v2.0.9",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-select2.git",
-                "reference": "03f202e9e2415f4c84e93a64074d85677fd0cc51"
+                "reference": "a129c6663078fe0ad14cde2a5d0afd071c7608e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/yii2-widget-select2/zipball/03f202e9e2415f4c84e93a64074d85677fd0cc51",
-                "reference": "03f202e9e2415f4c84e93a64074d85677fd0cc51",
+                "url": "https://api.github.com/repos/kartik-v/yii2-widget-select2/zipball/a129c6663078fe0ad14cde2a5d0afd071c7608e9",
+                "reference": "a129c6663078fe0ad14cde2a5d0afd071c7608e9",
                 "shasum": ""
             },
             "require": {
@@ -1647,7 +1647,7 @@
             "type": "yii2-extension",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.0.x-dev"
+                    "dev-master": "2.1.x-dev"
                 }
             },
             "autoload": {
@@ -1678,7 +1678,7 @@
                 "widget",
                 "yii2"
             ],
-            "time": "2017-04-12T09:00:24+00:00"
+            "time": "2017-08-07T18:12:36+00:00"
         },
         {
             "name": "kartik-v/yii2-widget-sidenav",
@@ -2153,12 +2153,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Wonail/wocenter.git",
-                "reference": "cd9345b6f57c4092fb0ef27dca1d941bb5e70768"
+                "reference": "b173c57433b89dcdd43c85651125321aaf993662"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Wonail/wocenter/zipball/cd9345b6f57c4092fb0ef27dca1d941bb5e70768",
-                "reference": "cd9345b6f57c4092fb0ef27dca1d941bb5e70768",
+                "url": "https://api.github.com/repos/Wonail/wocenter/zipball/b173c57433b89dcdd43c85651125321aaf993662",
+                "reference": "b173c57433b89dcdd43c85651125321aaf993662",
                 "shasum": ""
             },
             "require": {
@@ -2195,7 +2195,7 @@
                 "wonail",
                 "yii2"
             ],
-            "time": "2017-08-05T07:33:30+00:00"
+            "time": "2017-08-16T06:02:40+00:00"
         },
         {
             "name": "wonail/yii2-adminlte",
@@ -2819,16 +2819,16 @@
         },
         {
             "name": "codeception/base",
-            "version": "2.3.4",
+            "version": "2.3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeception/base.git",
-                "reference": "c146cf4888f5789d9dbd35d6204e2aa7aa2e94e9"
+                "reference": "eb3274a5dddeef8d8ca64b0414c0bf3c75bc9be9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeception/base/zipball/c146cf4888f5789d9dbd35d6204e2aa7aa2e94e9",
-                "reference": "c146cf4888f5789d9dbd35d6204e2aa7aa2e94e9",
+                "url": "https://api.github.com/repos/Codeception/base/zipball/eb3274a5dddeef8d8ca64b0414c0bf3c75bc9be9",
+                "reference": "eb3274a5dddeef8d8ca64b0414c0bf3c75bc9be9",
                 "shasum": ""
             },
             "require": {
@@ -2908,7 +2908,7 @@
                 "functional testing",
                 "unit testing"
             ],
-            "time": "2017-07-10T20:30:59+00:00"
+            "time": "2017-08-10T20:41:08+00:00"
         },
         {
             "name": "codeception/verify",
@@ -3002,29 +3002,31 @@
         },
         {
             "name": "fzaninotto/faker",
-            "version": "v1.6.0",
+            "version": "v1.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fzaninotto/Faker.git",
-                "reference": "44f9a286a04b80c76a4e5fb7aad8bb539b920123"
+                "reference": "d3ed4cc37051c1ca52d22d76b437d14809fc7e0d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/44f9a286a04b80c76a4e5fb7aad8bb539b920123",
-                "reference": "44f9a286a04b80c76a4e5fb7aad8bb539b920123",
+                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/d3ed4cc37051c1ca52d22d76b437d14809fc7e0d",
+                "reference": "d3ed4cc37051c1ca52d22d76b437d14809fc7e0d",
                 "shasum": ""
             },
             "require": {
-                "php": "^5.3.3|^7.0"
+                "php": "^5.3.3 || ^7.0"
             },
             "require-dev": {
                 "ext-intl": "*",
-                "phpunit/phpunit": "~4.0",
-                "squizlabs/php_codesniffer": "~1.5"
+                "phpunit/phpunit": "^4.0 || ^5.0",
+                "squizlabs/php_codesniffer": "^1.5"
             },
             "type": "library",
             "extra": {
-                "branch-alias": []
+                "branch-alias": {
+                    "dev-master": "1.8-dev"
+                }
             },
             "autoload": {
                 "psr-4": {
@@ -3046,7 +3048,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2016-04-29T12:21:54+00:00"
+            "time": "2017-08-15T16:48:10+00:00"
         },
         {
             "name": "guzzlehttp/psr7",

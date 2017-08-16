@@ -3,7 +3,7 @@ return [
     'vendorPath' => dirname(dirname(__DIR__)) . '/vendor',
     'components' => [
         'cache' => [
-            'class' => 'yii\caching\ApcCache',
+            'class' => 'yii\caching\FileCache',
             'keyPrefix' => 'wc_', // 唯一键前缀
         ],
         'schemaCache' => [
