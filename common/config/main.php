@@ -17,7 +17,7 @@ return [
             'passwordHashStrategy' => 'password_hash', // 生成密码的方法，必须PHP版本>=5.5.0，否则注释该行
         ],
         'assetManager' => [
-            'linkAssets' => true,
+//            'linkAssets' => true, // win系统不支持符号链接，linux系统可按需要配置
         ],
     ],
     'timeZone' => 'PRC',

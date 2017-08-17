@@ -2153,12 +2153,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Wonail/wocenter.git",
-                "reference": "b173c57433b89dcdd43c85651125321aaf993662"
+                "reference": "2ecb79cb5c6a5500a1fbb7ce0bf2f0fb580e5d13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Wonail/wocenter/zipball/b173c57433b89dcdd43c85651125321aaf993662",
-                "reference": "b173c57433b89dcdd43c85651125321aaf993662",
+                "url": "https://api.github.com/repos/Wonail/wocenter/zipball/2ecb79cb5c6a5500a1fbb7ce0bf2f0fb580e5d13",
+                "reference": "2ecb79cb5c6a5500a1fbb7ce0bf2f0fb580e5d13",
                 "shasum": ""
             },
             "require": {
@@ -2195,7 +2195,7 @@
                 "wonail",
                 "yii2"
             ],
-            "time": "2017-08-16T06:02:40+00:00"
+            "time": "2017-08-17T02:26:07+00:00"
         },
         {
             "name": "wonail/yii2-adminlte",
@@ -4732,16 +4732,16 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.4.0",
+            "version": "v1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "f29dca382a6485c3cbe6379f0c61230167681937"
+                "reference": "7c8fae0ac1d216eb54349e6a8baa57d515fe8803"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/f29dca382a6485c3cbe6379f0c61230167681937",
-                "reference": "f29dca382a6485c3cbe6379f0c61230167681937",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/7c8fae0ac1d216eb54349e6a8baa57d515fe8803",
+                "reference": "7c8fae0ac1d216eb54349e6a8baa57d515fe8803",
                 "shasum": ""
             },
             "require": {
@@ -4753,7 +4753,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -4787,7 +4787,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-09T14:24:12+00:00"
+            "time": "2017-06-14T15:44:48+00:00"
         },
         {
             "name": "symfony/yaml",
