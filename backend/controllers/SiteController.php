@@ -40,13 +40,9 @@ class SiteController extends Controller
     public function dispatches()
     {
         return [
+            'index',
             'error',
         ];
-    }
-
-    public function actionIndex()
-    {
-        return $this->display();
     }
 
 }

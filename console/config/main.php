@@ -16,6 +16,9 @@ return [
             'class' => 'yii\console\controllers\FixtureController',
             'namespace' => 'common\fixtures',
           ],
+        'wocenter' => [
+            'class' => 'wocenter\console\controllers\MigrateController',
+        ],
     ],
     'components' => [
         'log' => [

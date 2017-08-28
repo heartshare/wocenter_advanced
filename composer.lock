@@ -280,16 +280,16 @@
         },
         {
             "name": "bower-asset/jquery.inputmask",
-            "version": "3.3.7",
+            "version": "3.3.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/RobinHerbots/Inputmask.git",
-                "reference": "9835731cb78cac749734d94a1cb5bd70da4d3b10"
+                "reference": "791d84990c4a98df1597e9d155be53a3725805dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RobinHerbots/Inputmask/zipball/9835731cb78cac749734d94a1cb5bd70da4d3b10",
-                "reference": "9835731cb78cac749734d94a1cb5bd70da4d3b10",
+                "url": "https://api.github.com/repos/RobinHerbots/Inputmask/zipball/791d84990c4a98df1597e9d155be53a3725805dd",
+                "reference": "791d84990c4a98df1597e9d155be53a3725805dd",
                 "shasum": ""
             },
             "require": {
@@ -662,16 +662,16 @@
         },
         {
             "name": "kartik-v/bootstrap-fileinput",
-            "version": "v4.4.2",
+            "version": "v4.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/bootstrap-fileinput.git",
-                "reference": "28c89de2708f32814879241b6f112ee27b8f4ec8"
+                "reference": "e35391eb28e6c8d2f280d5d2b025437733058131"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/bootstrap-fileinput/zipball/28c89de2708f32814879241b6f112ee27b8f4ec8",
-                "reference": "28c89de2708f32814879241b6f112ee27b8f4ec8",
+                "url": "https://api.github.com/repos/kartik-v/bootstrap-fileinput/zipball/e35391eb28e6c8d2f280d5d2b025437733058131",
+                "reference": "e35391eb28e6c8d2f280d5d2b025437733058131",
                 "shasum": ""
             },
             "type": "library",
@@ -711,20 +711,20 @@
                 "progress",
                 "upload"
             ],
-            "time": "2017-06-24T05:15:30+00:00"
+            "time": "2017-08-27T18:51:18+00:00"
         },
         {
             "name": "kartik-v/bootstrap-star-rating",
-            "version": "v4.0.1",
+            "version": "v4.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/bootstrap-star-rating.git",
-                "reference": "d66083c14f9386ede23fccb76dea1a380db67ded"
+                "reference": "599c10e2456bc2215da7c6337d6b1c65892bff72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/bootstrap-star-rating/zipball/d66083c14f9386ede23fccb76dea1a380db67ded",
-                "reference": "d66083c14f9386ede23fccb76dea1a380db67ded",
+                "url": "https://api.github.com/repos/kartik-v/bootstrap-star-rating/zipball/599c10e2456bc2215da7c6337d6b1c65892bff72",
+                "reference": "599c10e2456bc2215da7c6337d6b1c65892bff72",
                 "shasum": ""
             },
             "type": "library",
@@ -755,7 +755,7 @@
                 "star",
                 "svg"
             ],
-            "time": "2016-02-28T16:13:18+00:00"
+            "time": "2017-08-27T08:23:59+00:00"
         },
         {
             "name": "kartik-v/dependent-dropdown",
@@ -2153,20 +2153,20 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Wonail/wocenter.git",
-                "reference": "2ecb79cb5c6a5500a1fbb7ce0bf2f0fb580e5d13"
+                "reference": "ef1e1b7a5ec53cce13780e646293ca545e4461bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Wonail/wocenter/zipball/2ecb79cb5c6a5500a1fbb7ce0bf2f0fb580e5d13",
-                "reference": "2ecb79cb5c6a5500a1fbb7ce0bf2f0fb580e5d13",
+                "url": "https://api.github.com/repos/Wonail/wocenter/zipball/ef1e1b7a5ec53cce13780e646293ca545e4461bc",
+                "reference": "ef1e1b7a5ec53cce13780e646293ca545e4461bc",
                 "shasum": ""
             },
             "require": {
                 "kartik-v/yii2-datecontrol": "~1.9.6",
                 "kartik-v/yii2-widgets": "@dev",
                 "php": ">=5.5.0",
-                "wonail/yii2-adminlte": "~0.1",
-                "wonail/yii2-widget-nestable": "~1.0",
+                "wonail/yii2-adminlte": "~0.1.0",
+                "wonail/yii2-widget-nestable": "~1.0.0",
                 "yiisoft/yii2": "~2.0.12",
                 "yiisoft/yii2-bootstrap": "~2.0.0",
                 "yiisoft/yii2-swiftmailer": "~2.0.0"
@@ -2195,20 +2195,20 @@
                 "wonail",
                 "yii2"
             ],
-            "time": "2017-08-17T02:26:07+00:00"
+            "time": "2017-08-28T03:00:32+00:00"
         },
         {
             "name": "wonail/yii2-adminlte",
-            "version": "v0.1",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Wonail/yii2-adminlte.git",
-                "reference": "e94790353ef55f446b87766624c2039a9baf39e0"
+                "reference": "bc0aa5169bc6cbcbbc0256bdbbc190f2e885ffec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Wonail/yii2-adminlte/zipball/e94790353ef55f446b87766624c2039a9baf39e0",
-                "reference": "e94790353ef55f446b87766624c2039a9baf39e0",
+                "url": "https://api.github.com/repos/Wonail/yii2-adminlte/zipball/bc0aa5169bc6cbcbbc0256bdbbc190f2e885ffec",
+                "reference": "bc0aa5169bc6cbcbbc0256bdbbc190f2e885ffec",
                 "shasum": ""
             },
             "require": {
@@ -2249,7 +2249,7 @@
                 "wonail",
                 "yii2"
             ],
-            "time": "2017-07-25T13:12:31+00:00"
+            "time": "2017-08-21T03:29:40+00:00"
         },
         {
             "name": "wonail/yii2-base",
@@ -2301,16 +2301,16 @@
         },
         {
             "name": "wonail/yii2-widget-nestable",
-            "version": "v1.2",
+            "version": "v1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Wonail/yii2-widget-nestable.git",
-                "reference": "b9e4ccaab15d616e0791cb49a7a96597f4dc3d60"
+                "reference": "39412e06ec43a6b8c12f71b71b4338baafe62c39"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Wonail/yii2-widget-nestable/zipball/b9e4ccaab15d616e0791cb49a7a96597f4dc3d60",
-                "reference": "b9e4ccaab15d616e0791cb49a7a96597f4dc3d60",
+                "url": "https://api.github.com/repos/Wonail/yii2-widget-nestable/zipball/39412e06ec43a6b8c12f71b71b4338baafe62c39",
+                "reference": "39412e06ec43a6b8c12f71b71b4338baafe62c39",
                 "shasum": ""
             },
             "type": "yii2-extension",
@@ -2335,7 +2335,7 @@
                 "wonail",
                 "yii2"
             ],
-            "time": "2017-08-04T06:37:24+00:00"
+            "time": "2017-07-19T11:17:46+00:00"
         },
         {
             "name": "wonail/yii2-widget-scrolltop",

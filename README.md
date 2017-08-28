@@ -15,7 +15,7 @@ Wocenter Github地址: https://github.com/Wonail/wocenter.git
 2、安装Wocenter
 ------------
 
-【撰写中】
+[查看安装方法](https://github.com/Wonail/wocenter_advanced/blob/master/INSTALL.md)
 
 3、架构特色
 -----------

@@ -4,15 +4,15 @@ return [
     'components' => [
         'cache' => [
             'class' => 'yii\caching\FileCache',
-            'keyPrefix' => 'wc_', // 唯一键前缀
         ],
         'schemaCache' => [
             'class' => 'yii\caching\FileCache',
             'keyPrefix' => 'scheme_', //统一缓存目录管理缓存文件,如果注释此设置,缓存文件则会自动分配至不同文件夹里
         ],
-        'session' => [
-            'class' => 'yii\web\DbSession',
-        ],
+//        'session' => [
+//            // 如果需要数据库存取$_SESSION会话数据，请自行安装该数据库迁移[[\yii\db\Migration\m160313_153426_session_init]]
+//            'class' => 'yii\web\DbSession',
+//        ],
         'security' => [
             'passwordHashStrategy' => 'password_hash', // 生成密码的方法，必须PHP版本>=5.5.0，否则注释该行
         ],
