@@ -34,6 +34,8 @@ return [
         'setWritable' => [
             'backend/runtime',
             'backend/web/assets',
+            'backend/modules',
+            'backend/themes',
         ],
         'setExecutable' => [
             'yii',
