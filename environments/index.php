@@ -36,6 +36,7 @@ return [
             'backend/web/assets',
             'backend/modules',
             'backend/themes',
+            'backend/views',
         ],
         'setExecutable' => [
             'yii',
